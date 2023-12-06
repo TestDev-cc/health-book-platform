@@ -9,10 +9,10 @@
 
 ####  **联系作者** 
 
-![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png)
+![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-fengfeiyezi.png)
  **这是作者的微信二维码，如需本项目源代码，可扫码或者VX:cyddhao联系作者。**  
 
-![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-fengfeiyezi.png)
+![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 **系统功能持续更新中。。。**
 #### 介绍
@@ -264,10 +264,10 @@
 若演示地址不可用，可扫码联系作者微信或者留言
 
 ####  **联系作者** 
-![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png)
+![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-fengfeiyezi.png)
  **这是作者的微信二维码，如需本项目源代码，可扫码或者VX:cyddhao联系作者。**  
 
-![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-fengfeiyezi.png)
+![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 #### 安装教程
 
